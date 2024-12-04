@@ -25,7 +25,7 @@ from the [roadmap.sh](https://roadmap.sh/)
     ```bash
    javac TaskCLI.java
    ```   
-~~~~
+
 ## 📘 Usage Example
 
 ```bash
