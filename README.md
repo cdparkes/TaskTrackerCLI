@@ -18,7 +18,7 @@ from the [roadmap.sh](https://roadmap.sh/)
 1. Clone the repository
     ```bash
     git clone https://github.com/cdparkes/TaskTrackerCLI
-    cd TaskTrackerCLI
+    cd TaskTrackerCLI/taskTrackerCLI/src
     ```
    
 2. Compile the code
